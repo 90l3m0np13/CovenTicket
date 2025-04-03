@@ -9,7 +9,9 @@ Guía paso a paso para robar un *Ticket Granting Ticket (TGT)* de Kerberos usand
    - Escalada de privilegios (*Golden Ticket*).  
 4. **Contexto Ético**:  
    - Solo para pruebas de penetración *autorizadas* y entrenamiento Red Team.  
-   - Técnicas asociadas a **MITRE ATT&CK T1558.001**.  
+   - Técnicas asociadas a **MITRE ATT&CK T1558.001**.
+
+![imagen](https://github.com/90l3m0np13/CovenTicket/blob/main/Covenant/Covenant.jpeg)
 
 # 🔧 Configuración inicial
 

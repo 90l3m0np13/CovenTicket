@@ -117,6 +117,7 @@ Pasos:
   - Interactuar con un Grunt:
 
     - Selecciona el Grunt > Click en Interact.
+
 ![imagen](https://github.com/90l3m0np13/CovenTicket/blob/main/Covenant/Grunt-Interact.png)
 
     - Usa la consola para ejecutar comandos:

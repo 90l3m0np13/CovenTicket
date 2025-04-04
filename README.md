@@ -120,7 +120,7 @@ Pasos:
 
 ![imagen](https://github.com/90l3m0np13/CovenTicket/blob/main/Covenant/Grunt-Interact.png)
 
-    - Usa la consola para ejecutar comandos:
+   - Usa la consola para ejecutar comandos:
      ```bash
      Shell whoami /all          # Ver información del usuario.
      Shell net user /domain     # Listar usuarios del dominio (si es AD).
